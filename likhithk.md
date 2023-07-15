@@ -1,4 +1,4 @@
-# Hello world 🌍 this is Likhith K! 👋
+# Hello world! 🌍 this is Likhith K 👋
 ## Just another random Computer Science freshmen 🤷  Mangaluru !
 ### Appreiciate 👏  and Love ♥ how SOSC is contributing to the Open Source Commmunity 🫡 
 -  I Enjoy contributing to Open Source ⚡ |  Web Development⚡ & Python 🐍
